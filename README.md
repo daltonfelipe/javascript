@@ -1,10 +1,15 @@
 # Javascript básico
 
-### Estruturas de dados
-#### Definição de variáveis
+#### Estruturas de dados
 * Strings
 * Inteiros
 * Floats
 * Listas
-### Estruturas de repetição
-### Estruturas de controle (condições)
+#### Definição de funções
+* function
+#### Estruturas de repetição
+* for
+#### Estruturas de controle (condições)
+* if
+* else if
+* else
