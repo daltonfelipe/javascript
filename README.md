@@ -1,5 +1,5 @@
 # Javascript básico
----
+
 ### Estruturas de dados
 #### Definição de variáveis
 * Strings
